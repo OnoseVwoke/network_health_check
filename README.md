@@ -1,6 +1,6 @@
 # Bash To-Do List Manager
 
-A simple interactive To-Do List manager built with Bash scripting.
+A simple and interactive To-Do List manager built with Bash scripting.
 
 ## Features
 
