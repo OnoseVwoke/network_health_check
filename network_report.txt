@@ -1,0 +1,25 @@
+======================================
+      NETWORK HEALTH CHECK REPORT     
+======================================
+
+SERVER INFORMATION
+Hostname: cs-109705610801-default
+Current User: onosevwoke
+Date and Time: Mon Jun  8 02:56:55 PM UTC 2026
+
+NETWORK INFORMATION
+IP Address: 10.88.0.3
+Default Gateway: 10.88.0.1
+DNS Server: 169.254.169.254
+
+INTERNET CONNECTIVITY
+Internet Connectivity: UP
+
+DNS RESOLUTION
+DNS Resolution: WORKING
+
+WEBSITE AVAILABILITY
+google.com : UP
+github.com : UP
+amazon.com : DOWN
+
